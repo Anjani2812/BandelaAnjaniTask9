@@ -115,7 +115,7 @@
         
 		<span   class="pull-right" "input-group-addon"><i class="fa fa-close fa-2x"></i></span>
 		<div class="header">
-		<b><h2  class="btn btn-info btn-block" class="text-center">Sign in</h2></b>
+		<b><h2   class="text-center">Sign in</h2></b>
         </div>
 		
 		<br>
